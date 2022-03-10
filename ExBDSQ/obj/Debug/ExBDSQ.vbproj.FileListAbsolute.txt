@@ -1,0 +1,26 @@
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\bin\Debug\ExBDSQ.exe.config
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\bin\Debug\ExBDSQ.exe
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\bin\Debug\ExBDSQ.pdb
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\bin\Debug\ExBDSQ.xml
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.vbproj.AssemblyReference.cache
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.Form1.resources
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.Resources.resources
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.vbproj.GenerateResource.cache
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.vbproj.CoreCompileInputs.cache
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.exe
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.xml
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.pdb
+C:\Users\35196\Desktop\Trabalho Final\ExBDSQ\ExBDSQ\obj\Debug\ExBDSQ.Form2.resources
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\bin\Debug\ExBDSQ.exe.config
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\bin\Debug\ExBDSQ.exe
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\bin\Debug\ExBDSQ.pdb
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\bin\Debug\ExBDSQ.xml
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.vbproj.AssemblyReference.cache
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.Form1.resources
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.Form2.resources
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.Resources.resources
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.vbproj.GenerateResource.cache
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.vbproj.CoreCompileInputs.cache
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.exe
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.xml
+C:\Users\35196\Desktop\Trabalho Final\Marcação Covid\ExBDSQ\obj\Debug\ExBDSQ.pdb
